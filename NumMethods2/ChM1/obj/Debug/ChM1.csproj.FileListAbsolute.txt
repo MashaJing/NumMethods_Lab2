@@ -1,0 +1,30 @@
+C:\Users\Ilya Shevtsov\source\repos\ChM1\ChM1\obj\Debug\ChM1.csprojAssemblyReference.cache
+C:\Users\Ilya Shevtsov\source\repos\ChM1\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+d:\OneDrive\projects\ChM1\ChM1\bin\Debug\ChM1.exe.config
+d:\OneDrive\projects\ChM1\ChM1\bin\Debug\ChM1.exe
+d:\OneDrive\projects\ChM1\ChM1\bin\Debug\ChM1.pdb
+d:\OneDrive\projects\ChM1\ChM1\obj\Debug\ChM1.csprojAssemblyReference.cache
+d:\OneDrive\projects\ChM1\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+d:\OneDrive\projects\ChM1\ChM1\obj\Debug\ChM1.exe
+d:\OneDrive\projects\ChM1\ChM1\obj\Debug\ChM1.pdb
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\bin\Debug\ChM1.exe.config
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\bin\Debug\ChM1.exe
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\bin\Debug\ChM1.pdb
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\obj\Debug\ChM1.csprojAssemblyReference.cache
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\obj\Debug\ChM1.exe
+d:\OneDrive\projects\Числен методы\ChM1\ChM1\obj\Debug\ChM1.pdb
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\bin\Debug\ChM1.exe.config
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\bin\Debug\ChM1.exe
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\bin\Debug\ChM1.pdb
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\obj\Debug\ChM1.csprojAssemblyReference.cache
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\obj\Debug\ChM1.exe
+d:\OneDrive\projects\NumMethods\ChM1\ChM1\obj\Debug\ChM1.pdb
+C:\Users\Admin\Desktop\NumMethods2\ChM1\bin\Debug\ChM1.exe.config
+C:\Users\Admin\Desktop\NumMethods2\ChM1\bin\Debug\ChM1.exe
+C:\Users\Admin\Desktop\NumMethods2\ChM1\bin\Debug\ChM1.pdb
+C:\Users\Admin\Desktop\NumMethods2\ChM1\obj\Debug\ChM1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\NumMethods2\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NumMethods2\ChM1\obj\Debug\ChM1.exe
+C:\Users\Admin\Desktop\NumMethods2\ChM1\obj\Debug\ChM1.pdb
